@@ -16,7 +16,7 @@ public class Github_conejos {
     public static void main(String[] args) {
         // TODO code application logic here
    
-        System.out.println("hOLLA MUNDO");
+        System.out.println("Aios MUNDO");
         
         
     // HOla chicos quue tal? 
